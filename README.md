@@ -1,4 +1,4 @@
-#This program make beep with winsound library in python.
+# This program make beep with winsound library in python.
 
 **First beep in 30 seconds**
 **Second beep in 2 minutes**
